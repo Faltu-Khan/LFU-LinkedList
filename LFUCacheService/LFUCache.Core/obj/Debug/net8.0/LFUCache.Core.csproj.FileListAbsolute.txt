@@ -1,0 +1,11 @@
+E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Core\bin\Debug\net8.0\LFUCache.Core.deps.json
+E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Core\bin\Debug\net8.0\LFUCache.Core.dll
+E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Core\bin\Debug\net8.0\LFUCache.Core.pdb
+E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Core\obj\Debug\net8.0\LFUCache.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Core\obj\Debug\net8.0\LFUCache.Core.AssemblyInfoInputs.cache
+E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Core\obj\Debug\net8.0\LFUCache.Core.AssemblyInfo.cs
+E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Core\obj\Debug\net8.0\LFUCache.Core.csproj.CoreCompileInputs.cache
+E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Core\obj\Debug\net8.0\LFUCache.Core.dll
+E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Core\obj\Debug\net8.0\refint\LFUCache.Core.dll
+E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Core\obj\Debug\net8.0\LFUCache.Core.pdb
+E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Core\obj\Debug\net8.0\ref\LFUCache.Core.dll

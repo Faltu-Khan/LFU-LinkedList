@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mmgwLikHB/CxSJ9UF+w0B6bWTDC3Y3yn/vuv1gqS9gQ=",
+  "Source": "LFUCache.API",
+  "BasePath": "_content/LFUCache.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

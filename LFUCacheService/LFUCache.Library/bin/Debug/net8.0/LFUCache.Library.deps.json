@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LFUCache.Library/1.0.0": {
+        "dependencies": {
+          "LFUCache.Core": "1.0.0"
+        },
+        "runtime": {
+          "LFUCache.Library.dll": {}
+        }
+      },
+      "LFUCache.Core/1.0.0": {
+        "runtime": {
+          "LFUCache.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LFUCache.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LFUCache.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
