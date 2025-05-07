@@ -35,3 +35,4 @@ E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.API\obj\Debug\net8.0\
 E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.API\obj\Debug\net8.0\LFUCache.API.pdb
 E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.API\obj\Debug\net8.0\LFUCache.API.genruntimeconfig.cache
 E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.API\obj\Debug\net8.0\ref\LFUCache.API.dll
+E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.API\obj\Debug\net8.0\LFUCache.API.sourcelink.json

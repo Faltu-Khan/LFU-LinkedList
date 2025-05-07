@@ -9,3 +9,4 @@ E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Core\obj\Debug\net8.0
 E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Core\obj\Debug\net8.0\refint\LFUCache.Core.dll
 E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Core\obj\Debug\net8.0\LFUCache.Core.pdb
 E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Core\obj\Debug\net8.0\ref\LFUCache.Core.dll
+E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Core\obj\Debug\net8.0\LFUCache.Core.sourcelink.json

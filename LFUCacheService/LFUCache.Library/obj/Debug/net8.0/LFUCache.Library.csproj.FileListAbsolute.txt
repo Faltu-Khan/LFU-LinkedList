@@ -13,3 +13,4 @@ E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Library\obj\Debug\net
 E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Library\obj\Debug\net8.0\refint\LFUCache.Library.dll
 E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Library\obj\Debug\net8.0\LFUCache.Library.pdb
 E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Library\obj\Debug\net8.0\ref\LFUCache.Library.dll
+E:\Assignments\AN-03 (LFU-Linked)\LFUCacheService\LFUCache.Library\obj\Debug\net8.0\LFUCache.Library.sourcelink.json
